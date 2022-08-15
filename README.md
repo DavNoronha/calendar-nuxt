@@ -1,16 +1,5 @@
 # calendar
 
-## Dados Pessoais
-Nome: David Noronha Domingues
-Nascimento: 13/06/1997
-Endereço: Jose Pereira Goulart, 601, Jardim Noronha, Pouso Alegre - MG
-CEP: 37551004
-Celular: (35) 99105-6860
-E-mail: davidnd97@gmail.com
-GitHub: https://github.com/DavNoronha
-Linkedin: https://www.linkedin.com/in/david-noronha-domingues-75005020b/
-Formção academica: Sistemas de informação - Graduando
-
 ## Build Setup
 
 ```bash
